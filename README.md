@@ -17,9 +17,14 @@ Original: https://github.com/Ableton/m4l-connection-kit/tree/master/OSC%20MIDI%2
 
 -OSCAmplitudeSend3000 sends the amplitude (loudness) value in a specified range of numbers.
 This patch borrows from the OSCBuddy patch by TomCosm, which I recommend checking out.
+
 Youtube Demo:
+
 https://www.youtube.com/watch?v=ASPzjJ5OYoU&ab_channel=TomCosm
+
 Link to download:
+
 https://tomcosm.gumroad.com/l/UCvKN
+
 The problem is that as far as I know there can only be one OSCBuddy device used in a project at a time, and only 4 tracks are supported. 
 My device just sends the amplitude signal value, and you can drag the device onto as many tracks as you want. 
